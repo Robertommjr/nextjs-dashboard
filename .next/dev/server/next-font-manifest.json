@@ -1,27 +1,6 @@
 {
-  "app": {
-    "[project]/app/dashboard/(overview)/page": [
-      "static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
-      "static/media/568219ae74a4794d-s.p.38n-6ax2rbm8l.woff2",
-      "static/media/f179d0d12a27c502-s.p.2dk54lebydp7v.woff2"
-    ],
-    "[project]/app/dashboard/invoices/[id]/edit/page": [
-      "static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
-      "static/media/568219ae74a4794d-s.p.38n-6ax2rbm8l.woff2",
-      "static/media/f179d0d12a27c502-s.p.2dk54lebydp7v.woff2"
-    ],
-    "[project]/app/dashboard/invoices/page": [
-      "static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
-      "static/media/568219ae74a4794d-s.p.38n-6ax2rbm8l.woff2",
-      "static/media/f179d0d12a27c502-s.p.2dk54lebydp7v.woff2"
-    ],
-    "[project]/app/page": [
-      "static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
-      "static/media/568219ae74a4794d-s.p.38n-6ax2rbm8l.woff2",
-      "static/media/f179d0d12a27c502-s.p.2dk54lebydp7v.woff2"
-    ]
-  },
-  "appUsingSizeAdjust": true,
+  "app": {},
+  "appUsingSizeAdjust": false,
   "pages": {},
   "pagesUsingSizeAdjust": false
 }

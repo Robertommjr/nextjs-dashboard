@@ -1,20 +1,20 @@
 {
   "node": {
-    "40e09d4d3f60f3370a124ab7636a8e6a593752e975": {
+    "00e4b4c7b3ed6d30ae5d85abb43c9c126d66e69f13": {
       "workers": {
         "app/dashboard/invoices/page": {
-          "moduleId": "[project]/.next-internal/server/app/dashboard/invoices/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "moduleId": "[project]/.next-internal/server/app/dashboard/invoices/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/ui/dashboard/sidenav.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
           "async": false,
           "codeHash": null
         }
       },
-      "exportedName": "createInvoice",
-      "filename": "app/lib/actions.ts"
+      "exportedName": "$$RSC_SERVER_ACTION_0",
+      "filename": "app/ui/dashboard/sidenav.tsx"
     },
     "40e31923c6870098aec8481b5a711340207de1d3bd": {
       "workers": {
         "app/dashboard/invoices/page": {
-          "moduleId": "[project]/.next-internal/server/app/dashboard/invoices/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "moduleId": "[project]/.next-internal/server/app/dashboard/invoices/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/ui/dashboard/sidenav.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
           "async": false,
           "codeHash": null
         }
@@ -25,12 +25,34 @@
     "6075b2ebfd5fe0b34ba33df418b1446dc319690f0c": {
       "workers": {
         "app/dashboard/invoices/page": {
-          "moduleId": "[project]/.next-internal/server/app/dashboard/invoices/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "moduleId": "[project]/.next-internal/server/app/dashboard/invoices/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/ui/dashboard/sidenav.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
           "async": false,
           "codeHash": null
         }
       },
       "exportedName": "updateInvoice",
+      "filename": "app/lib/actions.ts"
+    },
+    "6093ba2c90dc587838081f3899fba2c720e26701c8": {
+      "workers": {
+        "app/dashboard/invoices/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/invoices/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/ui/dashboard/sidenav.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "authenticate",
+      "filename": "app/lib/actions.ts"
+    },
+    "60e09d4d3f60f3370a124ab7636a8e6a593752e975": {
+      "workers": {
+        "app/dashboard/invoices/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/invoices/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/ui/dashboard/sidenav.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "createInvoice",
       "filename": "app/lib/actions.ts"
     }
   },
